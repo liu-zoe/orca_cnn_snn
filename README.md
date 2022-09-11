@@ -1,7 +1,5 @@
 # Identify South Resident Killer Whales Calls Using CNN and SNN
 
-#### [Project Status]: Ongoing
-
 ## __Project Description__
 This is a replication project using the methods in [*Detecting, classifying, and counting blue whale calls with Siamese neural networks*](https://asa.scitation.org/doi/10.1121/10.0004828) by Ming Zhong, Maelle Torterotot, and Trevor Branch et al., where convolutional neural networks(CNN) and Siamese neural networks (SNN) were compared in identifying and classifying calls of four types of blue whales. This project will compare the performances of CNN and SNN on identifying calls of Southern Resident Killer Whales. Part of the codes are adapted from the following github repo https://github.com/microsoft/blue-whale-acoustics.
 
@@ -17,6 +15,8 @@ The annotation of the data currently contains binary tags for SRKW calls (no cli
 1. Make spectrograms: make spectrograms according to the annotations and adding tags (positive vs. negative) to spectrograms.
 2. CNN: Training CNN models to identify SRKW calls. 
 3. SNN: Training SNN models to identify SRKW calls. 
+4. Compare performance of CNN and SNN
+5. Summary
 
 ### Author
 > [Zoe Liu](https://github.com/liu-zoe)
