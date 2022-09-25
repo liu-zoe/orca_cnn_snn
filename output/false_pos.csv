@@ -1,0 +1,7 @@
+path,pred,wav_filename,start_time_s,dataset,duration_s,location,date,pst_or_master_tape_identifier
+../output/spectrogram/test/all/OS_9_27_2017_10_28_00__0001_0_neg.png,0.97712326,OS_9_27_2017_10_28_00__0001.wav,0,podcast_test_round2,0.0,orcasound_lab,9/27/2017,Orcasound_PodCast_Round3
+../output/spectrogram/test/all/OS_9_27_2017_11_00_00__0004_0_neg.png,0.98166627,OS_9_27_2017_11_00_00__0004.wav,0,podcast_test_round2,0.0,orcasound_lab,9/27/2017,Orcasound_PodCast_Round3
+../output/spectrogram/test/all/OS_9_27_2017_11_00_00__0004_0_neg.png,0.98166627,OS_9_27_2017_11_00_00__0004.wav,0,podcast_test_round2,0.0,orcasound_lab,9/27/2017,Orcasound_PodCast_Round3
+../output/spectrogram/test/all/OS_9_27_2017_11_32_00__0002_0_neg.png,0.98166627,OS_9_27_2017_11_32_00__0002.wav,0,podcast_test_round2,0.0,orcasound_lab,9/27/2017,Orcasound_PodCast_Round3
+../output/spectrogram/test/all/OS_9_27_2017_11_42_00__0000_0_neg.png,0.95056236,OS_9_27_2017_11_42_00__0000.wav,0,podcast_test_round2,0.0,orcasound_lab,9/27/2017,Orcasound_PodCast_Round3
+../output/spectrogram/test/all/streaming-orcasound-net_2019_11_14_12_59_00_0_neg.png,0.98166627,streaming-orcasound-net_2019_11_14_12_59_00.wav,0,podcast_test_round3,0.0,port_townsend,2019-11-14,12:59:00
